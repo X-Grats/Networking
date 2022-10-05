@@ -11,8 +11,8 @@ def menu():
 ....##....##.....##.##.....##.##.......##....##.##....##
 ....##.....#######...#######..########..######...######.
 ========================================
-Created By Anonymous
-Facebook: facebook.com/kalinuxtutorials
+Created By BAPAKNYA Eca
+Facebook: uji coba
 Ver: 2.0
 ----
 ONLY FOR TERMUX!
@@ -20,15 +20,15 @@ ONLY FOR TERMUX!
 ==========================================
 00. Turn your Android into Hacking Machine.
 ------------------------------------------
-1. Install Nmap 
-2. Install Hydra
-3. Install SQLMap
-4. Install Metasploit
-5. Install ngrok
-6. Install Kali Nethunter
-7. Install angryFuzzer
-8. Install Red_Hawk
-9. Install Weeman
+ 1. Install Nmap 
+ 2. Install Hydra
+ 3. Install SQLMap
+ 4. Install Metasploit
+ 5. Install ngrok
+ 6. Install Kali Nethunter
+ 7. Install angryFuzzer
+ 8. Install Red_Hawk
+ 9. Install Weeman
 10. Install IPGeoLocation
 11. Install Cupp
 12. Instagram Bruteforcer (instahack)
